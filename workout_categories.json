@@ -1,0 +1,38 @@
+{
+  "Biceps": {
+    "Beginner": [
+      {
+        "name": "BB1",
+        "image_url": ""
+      },
+      {
+        "name": "BB2",
+        "image_url": ""
+      }
+    ],
+    "Intermediate": [
+      {
+        "name": "BI1",
+        "image_url": ""
+      }
+    ]
+  },
+  "Cardio": {
+    "Beginner": [
+      {
+        "name": "CB1",
+        "image_url": ""
+      },
+      {
+        "name": "CB2",
+        "image_url": ""
+      }
+    ],
+    "Intermediate": [
+      {
+        "name": "CI1",
+        "image_url": ""
+      }
+    ]
+  }
+}
