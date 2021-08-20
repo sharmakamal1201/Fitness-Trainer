@@ -2,36 +2,36 @@
   "Biceps": {
     "Beginner": [
       {
-        "name": "BB1",
-        "image_url": ""
+        "name": "Biceps Beginner 1",
+        "image_url": "https://ignorelimits.com/wp-content/uploads/2020/02/dumbbell-bicep-workout.jpg"
       },
       {
-        "name": "BB2",
-        "image_url": ""
+        "name": "Biceps Beginner 2",
+        "image_url": "https://ignorelimits.com/wp-content/uploads/2020/02/dumbbell-bicep-workout.jpg"
       }
     ],
     "Intermediate": [
       {
-        "name": "BI1",
-        "image_url": ""
+        "name": "Biceps Intermediate 1",
+        "image_url": "https://ignorelimits.com/wp-content/uploads/2020/02/dumbbell-bicep-workout.jpg"
       }
     ]
   },
   "Cardio": {
     "Beginner": [
       {
-        "name": "CB1",
-        "image_url": ""
+        "name": "Cardio Beginner 1",
+        "image_url": "https://www.healthspectra.com/wp-content/uploads/2017/02/cardio-workout01.jpg"
       },
       {
-        "name": "CB2",
-        "image_url": ""
+        "name": "Cardio Beginner 2",
+        "image_url": "https://www.healthspectra.com/wp-content/uploads/2017/02/cardio-workout01.jpg"
       }
     ],
     "Intermediate": [
       {
-        "name": "CI1",
-        "image_url": ""
+        "name": "Cardio Intermediate 1",
+        "image_url": "https://www.healthspectra.com/wp-content/uploads/2017/02/cardio-workout01.jpg"
       }
     ]
   }
